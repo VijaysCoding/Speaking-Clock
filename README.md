@@ -6,8 +6,8 @@ A Java Spring Boot microservice that converts time (HH:mm format) into spoken En
 
 ## 🧰 Technologies Used
 
-- Java 17+
-- Spring Boot 3.x
+- Java 8
+- Spring Boot
 - Maven
 - Swagger (Springdoc OpenAPI)
 - JUnit 5
@@ -17,7 +17,7 @@ A Java Spring Boot microservice that converts time (HH:mm format) into spoken En
 
 ## ⚙️ Build Instructions
 
-Make sure you have Java 17+ and Maven installed.
+Make sure you have Java 8 and Maven installed.
 
 ```bash
 # Clone the repo
